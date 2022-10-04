@@ -6,6 +6,9 @@ public class Demo {
 	{
 
        System.out.println("Hello API");
+	System.out.println("Hello Rest");
+	System.out.println("Hello Rest Full");
+	
 	}
 
 }
